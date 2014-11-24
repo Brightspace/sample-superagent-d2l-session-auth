@@ -1,0 +1,14 @@
+{
+  "name": "valence-frontend-sample",
+  "version": "1.0.0",
+  "authors": [
+    "Jacob Parker <j3parker@csclub.uwaterloo.ca>"
+  ],
+  "license": "Apache 2.0",
+  "private": true,
+  "dependencies": {
+    "requirejs": "~2.1.15",
+    "superagent": "~0.21.0",
+    "superagent-valence": "*"
+  }
+}
