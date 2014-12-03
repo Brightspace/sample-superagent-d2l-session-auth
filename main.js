@@ -1,7 +1,7 @@
 'use strict';
 
 var request = require('superagent');
-var valence = require('superagent-valence')('MySampleApp');
+var valence = require('superagent-d2l-session-auth')('MySampleApp');
 
 request
 	.get('/d2l/api/lp/1.4/users/whoami')

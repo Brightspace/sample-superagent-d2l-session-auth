@@ -1,21 +1,21 @@
 {
-  "name": "sample-superagent-valence",
+  "name": "sample-superagent-d2l-session-auth",
   "version": "1.0.0",
   "description": "A sample using session-auth to call the Valence APIs",
   "dependencies": {
     "superagent": "^0.21.0",
-    "superagent-valence": "git://github.com/Brightspace/superagent-valence"
+    "superagent-valence": "git://github.com/Brightspace/superagent-d2l-session-auth"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Brightspace/sample-superagent-valence"
+    "url": "https://github.com/Brightspace/sample-superagent-d2l-session-auth"
   },
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/Brightspace/sample-superagent-valence/issues"
+    "url": "https://github.com/Brightspace/sample-superagent-d2l-session-auth/issues"
   },
-  "homepage": "https://github.com/Brightspace/sample-superagent-valence"
+  "homepage": "https://github.com/Brightspace/sample-superagent-d2l-session-auth"
 }

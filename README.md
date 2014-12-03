@@ -1,5 +1,5 @@
-superagent-valence-sample
-=========================
+sample-superagent-d2l-session-auth
+==================================
 
 A sample using session-auth to call the Valence APIs
 
