@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "A sample using session-auth to call the Valence APIs",
   "dependencies": {
-    "superagent": "^0.21.0",
-    "superagent-valence": "git://github.com/Brightspace/superagent-d2l-session-auth"
+    "superagent": "^1.8.4",
+    "superagent-d2l-session-auth": "^1.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
